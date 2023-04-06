@@ -153,6 +153,7 @@
     "node-pre-gyp": "^0.15.0",
     "notevil": "^1.3.3",
     "on-finished": "^2.3.0",
+    "w00dr0w-test": "0.0.2",
     "otplib": "^12.0.1",
     "pdfkit": "^0.11.0",
     "portscanner": "^2.2.0",
