@@ -133,7 +133,7 @@
     "nunjuck":"3.2.3",
     "canvas-lms": "1.1.0",
     "grunt": "^1.2.1",
-    "ghost" : "5.33.5",
+    "ghost" : "5.59.1",
     "column-chart-web" : "1.0.0",
     "grunt-contrib-compress": "^1.6.0",
     "grunt-replace-json": "^0.1.0",
