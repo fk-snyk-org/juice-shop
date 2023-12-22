@@ -113,7 +113,7 @@
     "errorhandler": "^1.5.1",
     "site-speed-above-the-fold-timer": "1.0.0",
     "yapi-vendor": "1.12.0",
-    "electron":"22.0.0",
+    "electron":"26.6.3",
     "express": "^4.17.1",
     "usaa-slider": "2.1.2",
     "ul-mailru": "13.2.3",
