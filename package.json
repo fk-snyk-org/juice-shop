@@ -98,7 +98,7 @@
   },
   "dependencies": {
     "body-parser": "^1.19.0",
-    "check-dependencies": "^1.1.0",
+    "check-dependencies": "^2.0.0",
     "clarinet": "^0.12.4",
     "colors": "^1.4.0",
     "compression": "^1.7.4",
@@ -113,7 +113,7 @@
     "errorhandler": "^1.5.1",
     "site-speed-above-the-fold-timer": "1.0.0",
     "yapi-vendor": "1.12.0",
-    "electron":"22.0.0",
+    "electron":"29.4.0",
     "express": "^4.17.1",
     "usaa-slider": "2.1.2",
     "ul-mailru": "13.2.3",
